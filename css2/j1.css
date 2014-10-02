@@ -1,0 +1,11 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+p {
+  font-style: italic ;
+  color: red ;
+}
+
+a {
+  font-style: normal ;
+}
